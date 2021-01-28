@@ -10,10 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="090c1c8d-ce8f-4c2e-b82e-4eec6233ff47" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/httpTrigger.go" beforeDir="false" afterPath="$PROJECT_DIR$/httpTrigger.go" afterDir="false" />
-    </list>
+    <list default="true" id="090c1c8d-ce8f-4c2e-b82e-4eec6233ff47" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
