@@ -10,8 +10,9 @@ With Cloud Functions you write simple, single-purpose functions that are attache
 - Cloud Storage event Trigger - they are attached to a GCP cloud storage and are fired when there is an event fired from bucket like adding files , updating files , deleting files.
 - Cloud Pub/Sub event Trigger - They are attached to a cloud Pub/Sub event. They act as a subscriber.
 
-Imp Notes
+<b>Imp Notes</b>
 - It's important to close/stop the cloud functions once they are done processing.
 - If this is not done, then they will try to run upto the timeout value setup for that function which 60 seconds by default. 
 - Since you are charged only for the duration the cloud function runs, not closing a function manually will charge you till the timeout value set for that function.
  
+ <b>How to close the cloud functions manually</b>
