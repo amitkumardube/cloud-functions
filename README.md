@@ -18,5 +18,5 @@ With Cloud Functions you write simple, single-purpose functions that are attache
  <b>How to close the cloud functions manually ?</b>
  
  <b>Where to go to learn more? </b>
- Documentation : https://cloud.google.com/functions/docs/concepts/overview#:~:text=Google%20Cloud%20Functions%20is%20a,your%20cloud%20infrastructure%20and%20services.&text=Your%20code%20executes%20in%20a%20fully%20managed%20environment.
- PluralSight course : Google Cloud functions - Getting Started by James Wilson
+ <p>Documentation : https://cloud.google.com/functions/docs/concepts/overview#:~:text=Google%20Cloud%20Functions%20is%20a,your%20cloud%20infrastructure%20and%20services.&text=Your%20code%20executes%20in%20a%20fully%20managed%20environment. </p>
+ <p>PluralSight course : Google Cloud functions - Getting Started by James Wilson </p>
