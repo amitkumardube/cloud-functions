@@ -7,10 +7,10 @@ Google Cloud Functions is a serverless execution environment for building and co
 With Cloud Functions you write simple, single-purpose functions that are attached to events emitted from your cloud infrastructure and services. Your function is triggered when an event being watched is fired. Your code executes in a fully managed environment. There is no need to provision any infrastructure or worry about managing any servers.
 
 <b>Cloud Events</b>
-Cloud events are things that happen in your cloud environment. These might be things like changes to data in a database, files added to a storage system, or a new virtual machine instance being created. Events occur whether or not you choose to respond to them
+<p>Cloud events are things that happen in your cloud environment. These might be things like changes to data in a database, files added to a storage system, or a new virtual machine instance being created. Events occur whether or not you choose to respond to them.</p>
 
 <b>Triggers</b>
-You create a response to an event with a trigger. A trigger is a declaration that you are interested in a certain event or set of events. Binding a function to a trigger allows you to capture and act on events.
+<p>You create a response to an event with a trigger. A trigger is a declaration that you are interested in a certain event or set of events. Binding a function to a trigger allows you to capture and act on events. </p>
  
 <b>Type of events which fires cloud functions</b>
 - Http Trigger event like webhooks - can be called using an HTTP call.
