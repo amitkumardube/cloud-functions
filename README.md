@@ -1,6 +1,6 @@
 # Cloud Functions
 
-<b>what are cloud functions</b>
+<b>what are cloud functions ?</b>
 * Excerpt from google cloud documentation : 
 Google Cloud Functions is a serverless execution environment for building and connecting cloud services. 
 With Cloud Functions you write simple, single-purpose functions that are attached to events emitted from your cloud infrastructure and services. Your function is triggered when an event being watched is fired. Your code executes in a fully managed environment. There is no need to provision any infrastructure or worry about managing any servers.
@@ -15,4 +15,4 @@ With Cloud Functions you write simple, single-purpose functions that are attache
 - If this is not done, then they will try to run upto the timeout value setup for that function which 60 seconds by default. 
 - Since you are charged only for the duration the cloud function runs, not closing a function manually will charge you till the timeout value set for that function.
  
- <b>How to close the cloud functions manually</b>
+ <b>How to close the cloud functions manually ?</b>
