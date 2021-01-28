@@ -16,3 +16,7 @@ With Cloud Functions you write simple, single-purpose functions that are attache
 - Since you are charged only for the duration the cloud function runs, not closing a function manually will charge you till the timeout value set for that function.
  
  <b>How to close the cloud functions manually ?</b>
+ 
+ <b>Where to go to learn more? </b>
+ Documentation : https://cloud.google.com/functions/docs/concepts/overview#:~:text=Google%20Cloud%20Functions%20is%20a,your%20cloud%20infrastructure%20and%20services.&text=Your%20code%20executes%20in%20a%20fully%20managed%20environment.
+ PluralSight course : Google Cloud functions - Getting Started by James Wilson
